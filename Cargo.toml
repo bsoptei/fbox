@@ -1,0 +1,6 @@
+[package]
+name    = "fbox"
+version = "0.1.0"
+authors = ["bsoptei <bsoptei@gmail.com>"]
+
+[dependencies]
