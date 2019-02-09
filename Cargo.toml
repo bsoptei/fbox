@@ -4,5 +4,7 @@ version = "0.1.0"
 authors = ["bsoptei <bsoptei@gmail.com>"]
 description = "A type for function composition."
 license = "MIT"
+edition = "2018"
+repository = "https://github.com/bsoptei/fbox"
 
 [dependencies]
